@@ -1,0 +1,3 @@
+id_transaksi,no_rekening,tanggal,jenis,nominal,keterangan
+TRX20260520105905411A,1000001,2026-01-01,masuk,200000,setor tunai
+TRX202605201056129C7E,1000001,2026-02-01,masuk,500000,setor tunai
