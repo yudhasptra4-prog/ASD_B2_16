@@ -1,12 +1,10 @@
-"""Bagian Udin: backend, CRUD, CSV, manajemen saldo, dan struktur data utama."""
-
 import csv
 import os
 import uuid
 from collections import deque
 from datetime import datetime
 
-from ibnu_testing import (
+from Testing_Debugging import (
     input_tanggal,
     input_valid,
     konfirmasi,

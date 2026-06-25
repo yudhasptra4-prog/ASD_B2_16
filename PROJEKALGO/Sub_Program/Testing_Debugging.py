@@ -1,5 +1,3 @@
-"""Bagian Ibnu: validasi, testing, dokumentasi, debugging, dan presentasi."""
-
 import csv
 import os
 import tempfile
@@ -161,7 +159,7 @@ def cetak_panduan_presentasi():
 
 def jalankan_self_test(verbose=True) -> bool:
     """Self-test ringan tanpa mengubah data CSV asli pengguna."""
-    import udin_backend as backend
+    import Struktur_Data_Utama as backend
 
     hasil = []
 

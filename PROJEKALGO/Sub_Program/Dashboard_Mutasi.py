@@ -1,8 +1,3 @@
-"""Bagian Yudha: frontend, dashboard, pencarian, periode, dan tabel mutasi.
-
-Jalankan aplikasi dari file ini:
-    python PROJEKFIKS.py
-"""
 
 import os
 
